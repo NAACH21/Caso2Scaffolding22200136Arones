@@ -1,0 +1,6 @@
+@Caso2Scaffolding22200136Arones_HostAddress = http://localhost:5054
+
+GET {{Caso2Scaffolding22200136Arones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

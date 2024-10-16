@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso2Scaffolding22200136Arones", "Caso2Scaffolding22200136Arones.csproj", "{94E3315B-3BAC-40FB-8E6E-66024010AE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caso2Scaffolding22200136Arones.DOMAIN", "..\Caso2Scaffolding22200136Arones.DOMAIN\Caso2Scaffolding22200136Arones.DOMAIN.csproj", "{BD41A80C-FCF2-493C-92A2-6C34D7BF97CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E3315B-3BAC-40FB-8E6E-66024010AE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E3315B-3BAC-40FB-8E6E-66024010AE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E3315B-3BAC-40FB-8E6E-66024010AE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E3315B-3BAC-40FB-8E6E-66024010AE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD41A80C-FCF2-493C-92A2-6C34D7BF97CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD41A80C-FCF2-493C-92A2-6C34D7BF97CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD41A80C-FCF2-493C-92A2-6C34D7BF97CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD41A80C-FCF2-493C-92A2-6C34D7BF97CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5064BFC-97FD-445E-B181-034913FAA9A4}
+	EndGlobalSection
+EndGlobal
